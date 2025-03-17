@@ -1,0 +1,8 @@
+training_set:
+  object_type: pipeline
+  object_uuid: data_preparation
+  outdated_after:
+    seconds: 594
+  repo_path: /home/muhammad/zoomcamp-mlops/03-orchestration/my_first_project
+  settings:
+    build: {}
